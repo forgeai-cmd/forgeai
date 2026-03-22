@@ -1,0 +1,40 @@
+{
+  "name": "forgeai",
+  "version": "1.0.0",
+  "description": "The AI Skills Operating System — 150+ premium skills, one install, superpower everything.",
+  "main": "bin/forge.js",
+  "bin": {
+    "forge": "./bin/forge.js"
+  },
+  "scripts": {
+    "start": "node bin/forge.js",
+    "test": "node tests/run.js"
+  },
+  "keywords": [
+    "ai",
+    "skills",
+    "claude-code",
+    "claude",
+    "anthropic",
+    "mcp",
+    "automation",
+    "marketing",
+    "seo",
+    "video",
+    "business",
+    "productivity",
+    "ai-agent",
+    "forge",
+    "forgeai"
+  ],
+  "author": "ForgeAI Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forgeai-tools/forgeai"
+  },
+  "homepage": "https://forgeai.dev",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
