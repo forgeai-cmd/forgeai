@@ -18,7 +18,7 @@
   <a href="#quick-start">Quick Start</a> •
   <a href="#skills-catalog">All Skills</a> •
   <a href="#the-math">The Math</a> •
-  <a href="https://forgeai.gumroad.com/l/pro">Get Pro ($29)</a>
+  <a href="https://forgeaicmd.gumroad.com/l/forgeai-pro">Get Pro ($29)</a>
 </p>
 
 ---
@@ -120,7 +120,7 @@ forge hook "my startup idea"
 
 ---
 
-## Pro Skills (30) — [$29 one-time](https://forgeai.gumroad.com/l/pro)
+## Pro Skills (30) — [$29 one-time](https://forgeaicmd.gumroad.com/l/forgeai-pro)
 
 <details>
 <summary><strong>📈 Marketing & SEO (14 skills)</strong> — replace your SEO agency</summary>
@@ -186,7 +186,7 @@ forge hook "my startup idea"
 
 <p align="center">
   <br>
-  <a href="https://forgeai.gumroad.com/l/pro"><img src="https://img.shields.io/badge/GET_PRO-$29_one_time-red?style=for-the-badge&logo=gumroad" alt="Get Pro"></a>
+  <a href="https://forgeaicmd.gumroad.com/l/forgeai-pro"><img src="https://img.shields.io/badge/GET_PRO-$29_one_time-red?style=for-the-badge&logo=gumroad" alt="Get Pro"></a>
   <br><br>
   <sub>One purchase. No subscription. No API keys. Works forever.</sub>
 </p>
@@ -275,7 +275,7 @@ Skills use the open **SKILL.md format**, compatible with Claude Code, Cursor, Wi
 | **Price** | **$0** | **$29 once** | **$99 once** |
 
 <p align="center">
-  <a href="https://forgeai.gumroad.com/l/pro"><strong>→ Get Pro for $29 ←</strong></a>
+  <a href="https://forgeaicmd.gumroad.com/l/forgeai-pro"><strong>→ Get Pro for $29 ←</strong></a>
 </p>
 
 > The same work from freelancers: **$8,500+/month**.
@@ -297,14 +297,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the format spec.
 
 ## License
 
-MIT — free for personal and commercial use. Premium skills sold separately on [Gumroad](https://forgeai.gumroad.com).
+MIT — free for personal and commercial use. Premium skills sold separately on [Gumroad](https://forgeaicmd.gumroad.com).
 
 ---
 
 <p align="center">
   <strong>Stop hiring. Start forging.</strong>
   <br><br>
-  <a href="https://forgeai.gumroad.com/l/pro">Get Pro ($29)</a> •
+  <a href="https://forgeaicmd.gumroad.com/l/forgeai-pro">Get Pro ($29)</a> •
   <a href="CONTRIBUTING.md">Contribute</a> •
   <a href="https://github.com/forgeai-cmd/forgeai/issues">Report Bug</a>
   <br><br>

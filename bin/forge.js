@@ -48,8 +48,8 @@ const CONFIG_DIR = path.join(ROOT, '.forgeai');
 const CONFIG_FILE = path.join(CONFIG_DIR, 'config.json');
 const PKG = require(path.join(ROOT, 'package.json'));
 
-const GUMROAD_URL = 'https://forgeai.gumroad.com/l/pro';
-const HOMEPAGE = 'https://forgeai.dev';
+const GUMROAD_URL = 'https://forgeaicmd.gumroad.com/l/forgeai-pro';
+const HOMEPAGE = 'https://github.com/forgeai-cmd/forgeai';
 
 const SKILL_TIERS = ['free', 'pro', 'agency'];
 
