@@ -58,9 +58,9 @@ const SKILL_TIERS = ['free', 'pro', 'agency'];
 function showBanner() {
   console.log('');
   console.log(cyan('  ╔═══════════════════════════════════════╗'));
-  console.log(cyan('  ║') + bold('   ForgeAI — AI Skills OS              ') + cyan('║'));
-  console.log(cyan('  ║') + '   150+ skills. One install.           ' + cyan('║'));
-  console.log(cyan('  ║') + '   Stop prompting. Start forging.      ' + cyan('║'));
+  console.log(cyan('  ║') + bold('   ForgeAI                             ') + cyan('║'));
+  console.log(cyan('  ║') + '   Your 12-person team in one CLI.     ' + cyan('║'));
+  console.log(cyan('  ║') + '   Stop hiring. Start forging.         ' + cyan('║'));
   console.log(cyan('  ╚═══════════════════════════════════════╝'));
   console.log('');
 }
@@ -291,8 +291,9 @@ function cmdUpgrade() {
   console.log(`  ${bold('Upgrade to ForgeAI Pro')}`);
   console.log(dim('  ' + '─'.repeat(50)));
   console.log('');
-  console.log(`  ${yellow('Unlock 100+ premium skills:')} SEO, marketing, video,`);
-  console.log(`  sales, automation, analytics, and more.`);
+  console.log(`  ${yellow('Unlock 30 Pro skills')} — your 12-person team:`);
+  console.log(`  SEO, video (Remotion), ads, legal, finance, content & more.`);
+  console.log(`  One purchase. $29. Works forever.`);
   console.log('');
   console.log(`  ${bold('Get Pro:')} ${cyan(GUMROAD_URL)}`);
   console.log('');

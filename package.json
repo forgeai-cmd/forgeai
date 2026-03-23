@@ -1,7 +1,7 @@
 {
   "name": "forgeai",
   "version": "1.0.0",
-  "description": "The AI Skills Operating System — 150+ premium skills, one install, superpower everything.",
+  "description": "45 expert AI skills for Claude Code — SEO, video, ads, legal, finance. One command. Agency-quality output.",
   "main": "bin/forge.js",
   "bin": {
     "forge": "./bin/forge.js"
@@ -31,7 +31,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/forgeai-tools/forgeai"
+    "url": "https://github.com/forgeai-cmd/forgeai"
   },
   "homepage": "https://forgeai.dev",
   "engines": {
